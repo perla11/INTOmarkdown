@@ -5,7 +5,7 @@
 
 ## 1. Linux uppsetning
 Til að sækja Linux byrjuðum við á að fara inn á ubuntu.com.  Þar völdum við "download" og "desktop" og völdum 64 bita útgáfu af Ubuntu 12.04 LTS og náðum þar í .iso skrá. Því næst fórum við á slóðina http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows til að koma Ubuntu inn á USB kubb, til að við gætum bootað tölvuna og keyrt þannig Linux af USB.  
-Af þessari síðu komumst við inn á "Pen Drive Linux's USB Installer".  Úr fellilista völdum við Ubuntu 13.10 Desktop amd64.  Svo þurftum við að finna .iso skránna og velja USB drifið og smella á "Create".  Við þurftum að staðfesta að valið drif væri USB lykillinn með því að smella á "Yes" og þá hófst niðurhölun inn á USB lykilinn. Á annarri tölvunni gekk allt eins og smurt en á hinni lentum við í klandri með að boota af lyklinum og þurftum að reyna ítrekað.  Þegar því var lokið slökktum við á tölvunni og bootuðum með USB lyklinum.
+Af þessari síðu komumst við inn á "Pen Drive Linux's USB Installer".  Úr fellilista völdum við Ubuntu 13.10 Desktop amd64.  Svo þurftum við að finna .iso skránna og velja USB drifið og smella á "Create".  Við þurftum að staðfesta að valið drif væri USB lykillinn með því að smella á "Yes" og þá hófst niðurhölun inn á USB lykilinn. Á annarri tölvunni gekk allt eins og smurt en á hinni lentum við í klandri með að boota af lyklinum og þurftum við að reyna ítrekað.  Þegar því var lokið slökktum við á tölvunni og bootuðum með USB lyklinum.
 
 ![Mynd af tölvu Kolbrúnar](http://oi40.tinypic.com/oarwvp.jpg)
 ![Mynd af tölvu Perlu] (http://oi43.tinypic.com/2ahtn6g.jpg)
@@ -26,14 +26,25 @@ Breytingin sem Perla gerði er hér: https://github.com/perla11/INTOPrufa en þ�
 
 ## 4. Uppsettur hugbúnaður
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
 Sá opni hugbúnaður sem við erum með á vélunum okkar er eftirfarandi:
 
-Mozilla Firefox
-Audacity
-Vlc Media Player
+Mozilla Firefox (Kolbrún og Perla)
+License: MPL 2.0
+Source code: https://github.com/mozilla/kuma
 
+Audacity (Perla)
+License: 	GNU General Public License
+Source code: http://audacity.sourceforge.net/download/source
+
+
+VLC Media Player (Kolbrún og Perla)
+License: GNU GPL v2
+Source code: http://www.videolan.org/vlc/download-sources.html
+
+QT creator (Kolbrún og Perla)
+License: GNU Lesser General Public License (LGPL)
+Source code: https://qt.gitorious.org/qt-creator
 
 ## 5. Unnið með Git (2. hluti)
 
-Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
+Að lokum forkuðum við Markdown skjalið og settum inn okkar texta við hvern lið.  Í okkar tilfelli skrifuðum við eingöngu textann á sinn stað og settum nöfnin okkar í lista.  Þar sem við komumst ekki aftur inn á Ubuntu þurftum við að setja myndirnar beint í skjalið með sérstökum skipunum til að þær birtust í skjalinu.  
