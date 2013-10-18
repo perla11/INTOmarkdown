@@ -29,31 +29,47 @@ Breytingin sem Perla gerði er hér: https://github.com/perla11/INTOPrufa en þ�
 ## 4. Uppsettur hugbúnaður
 
 Sá opni hugbúnaður sem við erum með á vélunum okkar er eftirfarandi:
-
-Mozilla Firefox (Kolbrún og Perla)
-License: MPL 2.0
+<ul>
+<li>Mozilla Firefox (Kolbrún og Perla)</li>
+License: MPL 2.0.
 Source code: https://github.com/mozilla/kuma
 
-Audacity (Perla)
-License: 	GNU General Public License
+<li>Audacity (Perla)</li>
+
+License: 	GNU General Public License.
+
+
 Source code: http://audacity.sourceforge.net/download/source
 
 
-VLC Media Player (Kolbrún og Perla)
-License: GNU GPL v2
+<li>VLC Media Player (Kolbrún og Perla)</li>
+
+License: GNU GPL v2.
+
+
 Source code: http://www.videolan.org/vlc/download-sources.html
 
-QT creator (Kolbrún og Perla)
-License: GNU Lesser General Public License (LGPL)
+<li>QT creator (Kolbrún og Perla)</li>
+
+License: GNU Lesser General Public License (LGPL).
+
+
 Source code: https://qt.gitorious.org/qt-creator
 
-Code Blocks (Kolbrún og Perla)
-License: GPL v3.0
+<li>Code Blocks (Kolbrún og Perla)</li>
+
+License: GPL v3.0.
+
+
 Source code: http://www.codeblocks.org/downloads/25
 
-Ubuntu (Kolbrún og Perla)
-License:	Mainly the GNU GPL and various other free software licenses
+<li>Ubuntu (Kolbrún og Perla)</li>
+
+License:	Mainly the GNU GPL and various other free software licenses.
+
+
 Source code: http://archive.ubuntu.com/
+</ul>
 
 ## 5. Unnið með Git (2. hluti)
 
