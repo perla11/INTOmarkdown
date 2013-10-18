@@ -47,6 +47,14 @@ QT creator (Kolbrún og Perla)
 License: GNU Lesser General Public License (LGPL)
 Source code: https://qt.gitorious.org/qt-creator
 
+Code Blocks (Kolbrún og Perla)
+License: GPL v3.0
+Source code: http://www.codeblocks.org/downloads/25
+
+Ubuntu (Kolbrún og Perla)
+License:	Mainly the GNU GPL and various other free software licenses
+Source code: http://archive.ubuntu.com/
+
 ## 5. Unnið með Git (2. hluti)
 
 Að lokum forkuðum við Markdown skjalið og settum inn okkar texta við hvern lið með því að breyta README.md skjalinu. Í okkar tilfelli skrifuðum við eingöngu textann á sinn stað og settum nöfnin okkar í lista.  Þar sem við komumst ekki aftur inn á Ubuntu þurftum við að setja myndirnar beint í skjalið með sérstökum skipunum til að þær birtust í skjalinu.  
